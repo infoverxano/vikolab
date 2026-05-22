@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://vikolab.vercel.app/sitemap.xml
